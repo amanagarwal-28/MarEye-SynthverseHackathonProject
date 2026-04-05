@@ -13,9 +13,9 @@ Imagine this: You're commanding a naval operation across thousands of kilometers
 
 **MAREye changes that.**
 
-We've built a **live digital twin of the maritime threat landscape** — a virtual mirror of the real ocean that captures, understands, and predicts every threat in real-time. Every submarine detected becomes a glowing threat entity on your 3D tactical globe. Every turbid underwater image gets AI-enhanced and analyzed. Every route you plan is instantly tested against your digital threat model before a single ship moves.
+We've built a **live digital twin of the maritime threat landscape** - a virtual mirror of the real ocean that captures, understands, and predicts every threat in real-time. Every submarine detected becomes a glowing threat entity on your 3D tactical globe. Every turbid underwater image gets AI-enhanced and analyzed. Every route you plan is instantly tested against your digital threat model before a single ship moves.
 
-Think of it as a **metaverse for military operations** — where operators command real vessels from an immersive virtual command center that perfectly reflects what's happening in the physical world.
+Think of it as a **metaverse for military operations** - where operators command real vessels from an immersive virtual command center that perfectly reflects what's happening in the physical world.
 
 ---
 
@@ -23,7 +23,7 @@ Think of it as a **metaverse for military operations** — where operators comma
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  REALITY (Ocean)                                          │
+│  REALITY (Ocean)                                         │
 │  • Submarines, mines, divers moving unseen               │
 │  • Murky water, limited sensor data                      │
 │  • Operational zones with threats                        │
@@ -38,7 +38,7 @@ Think of it as a **metaverse for military operations** — where operators comma
 └──────────────────────────────────────────────────────────┘
                            ↓ [Simulation & Prediction]
 ┌──────────────────────────────────────────────────────────┐
-│  DECISION SUPPORT                                         │
+│  DECISION SUPPORT                                        │
 │  • What-if mission planning (test before executing)      │
 │  • Predictive threat modeling                            │
 │  • Automated route optimization                          │
@@ -292,7 +292,7 @@ Found a bug? Want to add a feature? We're open to contributions. The digital twi
 
 ## 🏆 Built For
 
-**Hack Among Us Hackathon** — DIGITAL TWINS IN THE METAVERSE ERA
+**SyntheVerse Hackathon** — DIGITAL TWINS IN THE METAVERSE ERA
 
 *Category: CyberSecurity & Blockchain (AI Threat Detection)*
 
@@ -304,7 +304,7 @@ Found a bug? Want to add a feature? We're open to contributions. The digital twi
 
 ---
 
-**Developed by Anubhab Rakshit**
+**Developed by Team Tensor**
 
 *"Building the metaverse where submarines can't hide."*
 
